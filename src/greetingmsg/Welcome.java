@@ -16,7 +16,8 @@ public class Welcome {
      */
     public static void main(String[] args) {
         System.out.println("hello");
-        System.out.println("Welcpem to demo of Git);
+        System.out.println("Welcpem to demo of Git");
+        //this file is now ready for fetch and merge
                            
     }
 
