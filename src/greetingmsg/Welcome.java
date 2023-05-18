@@ -6,7 +6,7 @@
 package greetingmsg;
 
 /**
- * this class is for greeting
+ *
  * @author Megha Patel,2023
  */
 public class Welcome {
